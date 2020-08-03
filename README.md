@@ -1,4 +1,5 @@
 # GIT教程
 
-
-- feature-A
+- fix-c
+- fix-D
+- fix-F
